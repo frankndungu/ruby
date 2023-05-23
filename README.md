@@ -1,4 +1,5 @@
 # Ruby 
 
-Introduction to Ruby - programmer's best friend
+This is a curriculum by Launch school
+
 
